@@ -1,3 +1,3 @@
 # 810-J-project
 
-Project
+Project: WEIQI
